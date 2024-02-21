@@ -10,6 +10,11 @@ Real cards and their hashes are collected via [Scryfall's bulk data files](https
 
 If provided a good picture (e.g. eight MTG cards lay out on a white A4 paper in decent lighting) it will yield some good results (but nowhere remotely close to perfect).
 
+Could probably be improved with:
+
+* Better knowledge of image processing/OpenCV
+* By hashing only the card art?
+
 ## Example 1
 
 Lucky 8/8
